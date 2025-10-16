@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Ej_Menu1 {
+public class Ej_menu1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int opcion;
